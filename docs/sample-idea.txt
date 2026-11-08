@@ -1,0 +1,1 @@
+Build a simple CRM for small businesses: contacts, sales pipeline, dashboard, and role-based access. Target market: Romania and EU. Use a local-only preview initially. Personal data: customer names and business emails. Authentication is required for production; identify legal and security questions before implementing.

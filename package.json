@@ -1,0 +1,13 @@
+{
+  "name": "codex-software-factory",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "new": "node scripts/new-project.mjs",
+    "verify": "node scripts/verify-factory.mjs",
+    "check-gates": "node scripts/check-gates.mjs",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {"node": ">=20"}
+}

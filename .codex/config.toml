@@ -1,0 +1,7 @@
+# Project-local Codex configuration. Respect the user's global security policy.
+sandbox_mode = "workspace-write"
+approval_policy = "on-request"
+
+[agents]
+enabled = true
+max_concurrent_threads_per_session = 3
